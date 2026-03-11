@@ -1,0 +1,22 @@
+# OpenClaw Configuration
+# Link to documentation: https://open-claw.org
+
+agent:
+  name: "ProctorAgent"
+  brain: "gemini-1.5-flash"
+  provider: "google"
+
+brain_config:
+  google:
+    api_key: "${GEMINI_API_KEY}"
+    model: "gemini-1.5-flash"
+
+interface:
+  type: "bridge"
+  bridge_url: "http://localhost:1234" # BlueBubbles Server
+  handler: "Scripts/imessage_handler.py"
+
+skills:
+  - name: "VoiceMonitoring"
+    path: "Sources/ProctorTrainer/VoiceMonitor.swift"
+    description: "Listen for voice commands and transcribe using Whisper."
