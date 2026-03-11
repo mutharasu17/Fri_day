@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08BE0304-2751-486B-BBDE-241A77352D2F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "647D6273-AD2B-45A8-A6E9-892774351626"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProctorTrainer/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "getLocalResponse(prompt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - ffd7767f2fca7960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - d84ef3af49997b62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - 8302b700d1b53566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - 8302b700d1b53566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - ceea8cd18c503760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - 567ef405f41cf164"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+               <Location
+                  uuid = "647D6273-AD2B-45A8-A6E9-892774351626 - 10d58809cb536b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #4 () async -&gt; () in ProctorTrainer.APIService.getLocalResponse(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ProctorTrainer.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutharasu/fri_day/ProctorTrainer/ProctorTrainer/ProctorTrainer/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCD62404-BA60-46E6-A861-B13BBDED94FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProctorTrainer/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "getLocalResponse(prompt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
